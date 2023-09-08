@@ -5,9 +5,15 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=adnan-ashrafi&label=Profile%20views&color=0e75b6&style=flat" alt="adnan-ashrafi" /> </p>
 
+- 🔭 I’m currently working on [The Review Care](https://thereviewcare.com/)
+
 - 🌱 I’m currently learning **Web Development**
 
 - 📫 How to reach me **adnan.ashrafii02@gmail.com**
+
+- 📄 Know about my experiences [file:///C:/Users/IT%20INSTITUTE/Desktop/CV%20of%20Adnan%20Ashrafi.pdf](file:///C:/Users/IT%20INSTITUTE/Desktop/CV%20of%20Adnan%20Ashrafi.pdf)
+
+- ⚡ Fun fact **I think I'm very funny**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
